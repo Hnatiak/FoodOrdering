@@ -5,7 +5,7 @@ import { SharedLayout } from "./components/SharedLayout/SharedLayout.jsx";
 import { AppContainer } from './App.styled.js'
 import Main from "./components/Main/Main.jsx";
 
-const HomePage = lazy(() => import("./components/HomePage/HomePage"));
+// const HomePage = lazy(() => import("./components/HomePage/HomePage"));
 
 
 export const App = () => {
