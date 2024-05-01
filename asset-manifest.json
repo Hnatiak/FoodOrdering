@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food-ordering-frontend/static/css/main.97500a02.css",
+    "main.js": "/food-ordering-frontend/static/js/main.25dfc634.js",
+    "static/media/pizza-general.png": "/food-ordering-frontend/static/media/pizza-general.5dec5b07df4f06e934b0.png",
+    "static/media/salat2.png": "/food-ordering-frontend/static/media/salat2.8b5f13da119a2ff32e59.png",
+    "static/media/salat1.png": "/food-ordering-frontend/static/media/salat1.406995b3e78e04b8cb7b.png",
+    "index.html": "/food-ordering-frontend/index.html",
+    "main.97500a02.css.map": "/food-ordering-frontend/static/css/main.97500a02.css.map",
+    "main.25dfc634.js.map": "/food-ordering-frontend/static/js/main.25dfc634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97500a02.css",
+    "static/js/main.25dfc634.js"
+  ]
+}
