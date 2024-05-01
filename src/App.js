@@ -1,5 +1,6 @@
-import React, { useEffect } from "react";
-import { lazy } from "react";
+// { useEffect }
+import React from "react";
+// import { lazy } from "react";
 import { Routes, Route } from "react-router-dom";
 import { SharedLayout } from "./components/SharedLayout/SharedLayout.jsx";
 import { AppContainer } from './App.styled.js'
