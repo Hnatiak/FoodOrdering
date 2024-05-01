@@ -10,7 +10,7 @@ import { App } from './App';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="/online-food-ordering">
       <App />
     </BrowserRouter>
   </React.StrictMode>

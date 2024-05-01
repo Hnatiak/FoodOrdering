@@ -2,6 +2,7 @@
   "name": "food-ordering-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Hnatiak.github.io/online-food-ordering",
   "dependencies": {
     "@emotion/styled": "^11.11.5",
     "@fortawesome/free-brands-svg-icons": "^6.5.2",
